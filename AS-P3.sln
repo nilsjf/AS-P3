@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS-P3", "AS-P3\AS-P3.csproj", "{A793A504-7075-4EAE-A7B7-DD48BC9FAACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVDKlasse", "DVDKlasse\DVDKlasse.csproj", "{D85420A3-FCD6-4378-BAE8-1DEE6E2270A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A793A504-7075-4EAE-A7B7-DD48BC9FAACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A793A504-7075-4EAE-A7B7-DD48BC9FAACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A793A504-7075-4EAE-A7B7-DD48BC9FAACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A793A504-7075-4EAE-A7B7-DD48BC9FAACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85420A3-FCD6-4378-BAE8-1DEE6E2270A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85420A3-FCD6-4378-BAE8-1DEE6E2270A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85420A3-FCD6-4378-BAE8-1DEE6E2270A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85420A3-FCD6-4378-BAE8-1DEE6E2270A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8CF9675-2360-4CCC-8E46-1A9D44A2744A}
+	EndGlobalSection
+EndGlobal
